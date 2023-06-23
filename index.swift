@@ -1,6 +1,6 @@
 struct BankAccount {
     
-    // Static Properties
+    // Create a type property 
     
     static let depositBonusRate = 0.01
     
